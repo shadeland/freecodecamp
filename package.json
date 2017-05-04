@@ -1,0 +1,23 @@
+{
+  "name": "@shadeland/firstnodeserver",
+  "version": "1.0.0",
+  "description": "first node server for codecamp ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadeland/freecodecamp.git"
+  },
+  "keywords": [
+    "node",
+    "server"
+  ],
+  "author": "shadeland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadeland/freecodecamp/issues"
+  },
+  "homepage": "https://github.com/shadeland/freecodecamp#readme"
+}
